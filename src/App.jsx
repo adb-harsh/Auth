@@ -48,7 +48,7 @@ const App = () => {
   };
 
   return (
-    <GoogleOAuthProvider clientId="YOUR_GOOGLE_CLIENT_ID">
+    <GoogleOAuthProvider clientId="873209957443-2tsd1s9bchu0fb3dk0mlkb9jko60a08c.apps.googleusercontent.com">
       <div style={{ display: "flex", flexDirection: "column", alignItems: "center", gap: "20px" }}>
         <h1>Social Login</h1>
 
