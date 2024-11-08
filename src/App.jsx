@@ -16,7 +16,7 @@ const App = () => {
   useEffect(() => {
     window.fbAsyncInit = function () {
       window.FB.init({
-        appId: "YOUR_FACEBOOK_APP_ID",
+        appId: "430328513204112",
         cookie: true,
         xfbml: true,
         version: "v12.0",
